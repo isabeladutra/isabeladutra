@@ -86,7 +86,7 @@ Me chamo Isabela Dutra, tenho 29 anos e sou natural do Rio de Janeiro. Concluí 
     align="center"
     alt="GitHub Stats"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrj273&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeladutra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
   <img 
     align="center"
