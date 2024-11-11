@@ -77,7 +77,7 @@ Me chamo Isabela Dutra, tenho 29 anos e sou natural do Rio de Janeiro. Concluí 
 
 ### 📊 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,jenkins,docker,kubernetes,nodejs,aws,gcp,azure,html,js,css,ts,angular,mysql,postgres,vscode,git,discord,github,linux,windows,springboot&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,jenkins,docker,kubernetes,nodejs,aws,gcp,azure,html,js,css,ts,angular,mysql,postgres,mongodb,vscode,git,discord,github,linux,windows,springboot&perline=10)](https://skillicons.dev)
 
 ### 📊 Estatísticas
 
