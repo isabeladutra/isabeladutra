@@ -16,13 +16,13 @@ Me chamo Isabela Dutra, tenho 29 anos e sou natural do Rio de Janeiro. Concluí 
             src="https://camo.githubusercontent.com/a7f4a173665f384ffb824b5c2be04649c66c7be04755aa5dc23a9238031535f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"
         />
         </a>
-        <a href="https://github.com/rafaelrj273?tab=followers"><img
+        <a href="https://github.com/isabeladutra?tab=followers"><img
             alt="Seguidores"
             title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/Rafaelrj273?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
         </a>
-        <a href="https://github.com/Rafaelrj273?tab=repositories&sort=stargazers"><img
+        <a href="https://github.com/isabeladutra?tab=repositories&sort=stargazers"><img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
             src="https://custom-icon-badges.demolab.com/github/stars/Rafaelrj273?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
